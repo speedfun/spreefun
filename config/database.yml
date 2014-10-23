@@ -3,17 +3,17 @@ development:
  host: localhost
  database: development
  username: development 
- password: Fun69
+ password: 
 
 test:
  adapter: postgresql
  host: localhost
  database: test
- username: test
+ username: t
  
 production:
  adapter: postgresql
  host: localhost
  database: roldaxhwh
  username: roldaxhwh
- password: FUIUT(OYITOYFI*%E(OTYFID*(RPT)(R%^PYTOF(IDPUFIDPTIDS*EPT*EPT*E)TTTTOU*E
+ password: FUIUT(OYITOYFI*%E(OTY
