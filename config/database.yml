@@ -1,0 +1,19 @@
+development:
+ adapter: postgresql
+ host: localhost
+ database: development
+ username: development 
+ password: Fun69
+
+test:
+ adapter: postgresql
+ host: localhost
+ database: test
+ username: test
+ 
+production:
+ adapter: postgresql
+ host: localhost
+ database: roldaxhwh
+ username: roldaxhwh
+ password: FUIUT(OYITOYFI*%E(OTYFID*(RPT)(R%^PYTOF(IDPUFIDPTIDS*EPT*EPT*E)TTTTOU*E
